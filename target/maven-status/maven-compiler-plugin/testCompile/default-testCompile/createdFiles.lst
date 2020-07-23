@@ -1,0 +1,16 @@
+appiumTest/TestCase/signup.class
+appiumTest/TestCase/connection.class
+appiumTest/rough/log4j_demo.class
+appiumTest/TestCase/timeline.class
+appiumTest/rough/rough.class
+appiumTest/TestCase/loginTest.class
+appiumTest/TestCase/sanityTest.class
+appiumTest/TestCase/share.class
+appiumTest/TestCase/profile.class
+appiumTest/base/TestBase.class
+appiumTest/TestCase/Dashboard.class
+appiumTest/base/browser.class
+appiumTest/TestCase/settings.class
+appiumTest/TestCase/virtualAssistance.class
+appiumTest/appiumTest/AppTest.class
+appiumTest/TestCase/Rough.class
